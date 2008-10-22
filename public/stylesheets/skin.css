@@ -1,0 +1,51 @@
+/* 
+
+	Skin
+	
+	Author:			Your Name
+	Date:			Today's Date
+	
+	Description:
+	===============================================================
+	Place styles that will affect the look and feel for your site.
+	You should not have to modify reset.css, typography.css, grids.css
+	or application.css if you are using the grids css system.
+
+*/
+
+body {
+	font-size: 13px;
+	line-height: 22px;
+}
+
+hr {
+	background-color: #DDDDDD;
+	border: medium none;
+	height: 1px;
+	margin: 0 0 1.45em;
+	width: 100%;
+}
+
+label {
+	display: block;
+}
+
+#main {
+	width: 850px;
+	margin: 50px auto;
+	padding: 50px;
+	border: 5px solid silver;
+}
+
+#_920,
+#_840 {
+	margin: 0 auto;
+}
+
+#_920 {
+	width: 920px;
+}
+
+#_840 {
+	width: 840px;
+}

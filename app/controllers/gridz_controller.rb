@@ -1,0 +1,2 @@
+class GridzController < ApplicationController
+end

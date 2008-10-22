@@ -1,0 +1,46 @@
+/* 
+
+	Gridz
+	
+	Author:			Terry Schmidt
+	Date:			10/21/2008
+		
+*/
+
+.gridz_1_6 { width: 16.666%; }
+.gridz_1_3 { width: 33.332%; }
+.gridz_1_2 { width: 50%; }
+.gridz_2_3 { width: 66.668%; }
+
+.gridz_1_6,
+.gridz_1_3,
+.gridz_1_2,
+.gridz_2_3 {
+	float:								left;
+	margin:								0;
+	padding:							0;
+}
+
+.gridz_1_6 div.normal,
+.gridz_1_3 div.normal,
+.gridz_1_2 div.normal,
+.gridz_2_3 div.normal,
+.gridz_1_6 div.last,
+.gridz_1_3 div.last,
+.gridz_1_2 div.last,
+.gridz_2_3 div.last {
+	margin:								0;
+	margin-right:						0.77em; /* 10px based on a 13px default */
+	padding:							0;
+}
+
+.gridz_1_6 div.last,
+.gridz_1_3 div.last,
+.gridz_1_2 div.last,
+.gridz_2_3 div.last {
+	margin-right:						0;
+}
+
+.gridz_row {
+	overflow:							hidden;
+}
