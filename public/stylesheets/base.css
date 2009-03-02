@@ -1,4 +1,22 @@
-/* CSS foundation */
+/* 
+
+	Base
+	
+	Author:			Terry Schmidt
+	Date:			09/27/2007
+	
+	Description:
+	===============================================================
+	The Base stylesheet will set some standard defaults for
+	the website. This will help eliminate the need to create this 
+	everytime you want to start a new site.
+	
+	**Information in this file should not be altered in any way. If
+	  you need to change the way one of these settings performs you 
+	  should create a separate CSS file to store your modifications
+	  (e.g. skin.css, site.css, application.css, etc).
+
+*/
 body {
 	font-size: 13px;
 	font-family: Arial, "MS Trebuchet", sans-serif;
@@ -43,86 +61,73 @@ body {
 */
 
 h1 {
-	/*18px via CSS foundation*/
-	font-size:138.5%;  
+	/*26px via CSS foundation*/
+	font-size: 197%;
 }
 
 h2 {
-	/*16px via CSS foundation*/
-	font-size:123.1%; 
+	/*22px via CSS foundation*/
+	font-size: 167%; 
 }
 
 h3 {
-	/*14px via CSS foundation*/
-	font-size:108%;  
+	/*19px via CSS foundation*/
+	font-size: 146.5%;  
 }
 
 h1,h2,h3 {
-	/* top & bottom margin based on font size */
-	margin:1em 0;
+	margin: 0;
 }
 
 h1,h2,h3,h4,h5,h6,strong {
-	/*bringing boldness back to headers and the strong element*/
-	font-weight:bold; 
+	font-weight: bold; 
+	line-height: 1;
 }
 
 abbr,acronym {
-	/*indicating to users that more info is available */
-	border-bottom:1px dotted #000;
-	cursor:help;
+	border-bottom: 1px dotted #000;
+	cursor: help;
 } 
 
 em {
-	/*bringing italics back to the em element*/
-	font-style:italic;
+	font-style: italic;
 }
 
 blockquote,ul,ol,dl {
-	/*giving blockquotes and lists room to breath*/
-	margin:1em;
+	margin: 1em;
 }
 
 ol,ul,dl {
-	/*bringing lists on to the page with breathing room */
-	margin-left:2em;
+	margin-left: 2em;
 }
 
 ol li {
-	/*giving OL's LIs generated numbers*/
 	list-style: decimal outside;	
 }
 
 ul li {
-	/*giving UL's LIs generated disc markers*/
 	list-style: disc outside;
 }
 
 dl dd {
-	/*giving UL's LIs generated numbers*/
-	margin-left:1em;
+	margin-left: 1em;
 }
 
 th,td {
-	/*borders and padding to make the table readable*/
-	border:1px solid #000;
-	padding:.5em;
+	border: 1px solid #000;
+	padding: 0.5em;
 }
 
 th {
-	/*distinguishing table headers from data cells*/
-	font-weight:bold;
-	text-align:center;
+	font-weight: bold;
+	text-align: center;
 }
 
 caption {
-	/*coordinated marking to match cell's padding*/
-	margin-bottom:.5em;
-	/*centered so it doesn't blend in to other content*/
+	margin-bottom: 0.5em;
 	text-align:center;
 }
 
 p,fieldset,table {
-	/*so things don't run into each other*/
-	margin-bottom:1em;
+	margin-bottom: 1em;
 }

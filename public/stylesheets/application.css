@@ -9,8 +9,8 @@
 /* Reset browser defaults */
 @import 'reset.css';
 
-/* Set default typography styles */
-@import 'typography.css';
+/* Set base styles */
+@import 'base.css';
 
 /* Allows for grid based layouts
    See the grids.css for more information */
