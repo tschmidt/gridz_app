@@ -14,8 +14,23 @@
 */
 
 body {
+	background-color: #fefefe;
+	color: #252525;
 	font-size: 13px;
 	line-height: 22px;
+}
+
+h1 {
+	margin-bottom: 0.499em;
+}
+
+h2 {
+	margin-bottom: 0.591em;
+}
+
+h3 {
+	color: #5384BF;
+	margin-bottom: 0.684em;
 }
 
 hr {
@@ -34,18 +49,47 @@ label {
 	width: 850px;
 	margin: 50px auto;
 	padding: 50px;
-	border: 5px solid silver;
+	border: 5px solid #252525;
 }
 
-#_920,
-#_840 {
+table,
+table th,
+table td {
+	border: 1px solid #c5c5c5;
+}
+
+table {
+	width: 100%;
+}
+
+	table th {
+		text-align: left;
+	}
+
+pre {
+	background-color: #e5e5e5;
+	padding: 0.77em;
+	margin-bottom: 1em;
+}
+
+.column p {
+	padding-right: 0.77em;
+}
+
+accronym {
+	border-bottom: 1px dotted;
+	cursor: help;
+}
+
+#t920,
+#t840 {
 	margin: 0 auto;
 }
 
-#_920 {
+#t920 {
 	width: 920px;
 }
 
-#_840 {
+#t840 {
 	width: 840px;
 }
