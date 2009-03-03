@@ -69,7 +69,11 @@ table {
 pre {
 	background-color: #e5e5e5;
 	padding: 0.77em;
-	margin-bottom: 1em;
+}
+
+table,
+pre {
+	margin-bottom: 3em;
 }
 
 .column p {
