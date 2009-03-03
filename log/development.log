@@ -3657,3 +3657,120 @@ SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
 Rendering template within layouts/application
 Rendering examples/index
 Completed in 0.00313 (319 reqs/sec) | Rendering: 0.00099 (31%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:34:10) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01430 (69 reqs/sec) | Rendering: 0.01208 (84%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:36:34) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01258 (79 reqs/sec) | Rendering: 0.01001 (79%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:38:29) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01077 (92 reqs/sec) | Rendering: 0.00877 (81%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:39:53) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01392 (71 reqs/sec) | Rendering: 0.01187 (85%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:40:09) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01615 (61 reqs/sec) | Rendering: 0.01395 (86%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:40:48) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.04975 (20 reqs/sec) | Rendering: 0.04773 (95%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:41:06) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01393 (71 reqs/sec) | Rendering: 0.01173 (84%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:41:13) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01461 (68 reqs/sec) | Rendering: 0.01155 (79%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:41:19) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01245 (80 reqs/sec) | Rendering: 0.01031 (82%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:41:39) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01059 (94 reqs/sec) | Rendering: 0.00874 (82%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:41:47) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01536 (65 reqs/sec) | Rendering: 0.01321 (86%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#layout_1 (for 172.25.10.33 at 2009-03-03 16:42:26) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_1", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_1
+Completed in 0.00688 (145 reqs/sec) | Rendering: 0.00496 (72%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_1]
+
+
+Processing ExamplesController#layout_1 (for 172.25.10.33 at 2009-03-03 16:42:55) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_1", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_1
+Completed in 0.00816 (122 reqs/sec) | Rendering: 0.00607 (74%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_1]
