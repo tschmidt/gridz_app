@@ -60,6 +60,10 @@ h3 {
 ==================================================================================== 
 */
 
+a {
+	outline: none;
+}
+
 accronym {
 	border-bottom: 1px dotted;
 	cursor: help;
@@ -95,6 +99,7 @@ label {
 */
 
 table {
+	margin-bottom: 3em;
 	width: 100%;
 }
 
@@ -110,11 +115,57 @@ table {
 
 /* 
 ====================================================================================
-		Misc
+		Examples
 ==================================================================================== 
 */
 
-table,
-pre {
-	margin-bottom: 3em;
+#examples_nav,
+#examples_nav li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
+
+	#examples_nav {
+		overflow: hidden;
+		_overflow: visible;
+		zoom: 1;
+		width: auto !important;
+	}
+
+	#examples_nav li {
+		float: left;
+	}
+
+	#examples_nav li a {
+		border: 1px solid #c5c5c5;
+		border-bottom: none;
+		color: #9d9d9d;
+		display: block;
+		padding: 0.25em 1.5em;
+		margin: 0 0 0 0.77em;
+		text-decoration: none;
+	}
+	
+	#examples_nav li a:hover,
+	#examples_nav li a.active {
+		border-color: #656565;
+		color: #656565;
+	}
+
+#examples {
+	border: 1px solid #c5c5c5;
+	height: 20em;
+	overflow: hidden;
+	_overflow: visible;
+	zoom: 1;
+	position: relative;
+	width: auto !important;
+}
+
+	#example_one,
+	#example_two,
+	#example_three {
+		float: left;
+		padding: 0.77em;
+	}
