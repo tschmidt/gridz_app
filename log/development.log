@@ -3774,3 +3774,422 @@ SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
 Rendering template within layouts/application
 Rendering examples/layout_1
 Completed in 0.00816 (122 reqs/sec) | Rendering: 0.00607 (74%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_1]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 16:56:26) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01116 (89 reqs/sec) | Rendering: 0.00888 (79%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 17:02:09) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.01378 (72 reqs/sec) | Rendering: 0.01143 (82%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 17:02:15) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.00283 (353 reqs/sec) | Rendering: 0.00097 (34%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-03 17:03:21) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.00382 (261 reqs/sec) | Rendering: 0.00188 (49%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-03 17:06:36) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00376 (265 reqs/sec) | Rendering: 0.00190 (50%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-03 17:06:54) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00441 (226 reqs/sec) | Rendering: 0.00250 (56%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-03 17:07:39) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00328 (304 reqs/sec) | Rendering: 0.00110 (33%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-03 17:07:51) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00691 (144 reqs/sec) | Rendering: 0.00484 (70%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-03 17:08:09) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00491 (203 reqs/sec) | Rendering: 0.00283 (57%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-03 17:08:38) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00497 (201 reqs/sec) | Rendering: 0.00289 (58%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-03 17:09:29) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00457 (219 reqs/sec) | Rendering: 0.00276 (60%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-03 17:09:56) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00289 (345 reqs/sec) | Rendering: 0.00086 (29%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_two (for 172.25.10.33 at 2009-03-03 17:11:59) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_two", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_two
+Completed in 0.00552 (181 reqs/sec) | Rendering: 0.00312 (56%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_two]
+
+
+Processing ExamplesController#layout_two (for 172.25.10.33 at 2009-03-03 17:12:15) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_two", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_two
+Completed in 0.00673 (148 reqs/sec) | Rendering: 0.00457 (67%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_two]
+
+
+Processing ExamplesController#layout_three (for 172.25.10.33 at 2009-03-03 17:13:06) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_three", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_three
+Completed in 0.00616 (162 reqs/sec) | Rendering: 0.00361 (58%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_three]
+
+
+Processing ExamplesController#layout_three (for 172.25.10.33 at 2009-03-03 17:13:44) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_three", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_three
+Completed in 0.00775 (129 reqs/sec) | Rendering: 0.00464 (59%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_three]
+
+
+Processing ExamplesController#layout_two (for 172.25.10.33 at 2009-03-03 17:13:53) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_two", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_two
+Completed in 0.00264 (378 reqs/sec) | Rendering: 0.00081 (30%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_two]
+
+
+Processing ExamplesController#layout_three (for 172.25.10.33 at 2009-03-03 17:13:57) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_three", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_three
+Completed in 0.00308 (324 reqs/sec) | Rendering: 0.00114 (37%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_three]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-04 11:31:21) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.03513 (28 reqs/sec) | Rendering: 0.03305 (94%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ApplicationController#index (for 172.25.10.33 at 2009-03-04 11:34:38) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/layout_one" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/rack/adapter/rails.rb:54:in `serve_rails'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/rack/adapter/rails.rb:74:in `call'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:63:in `pre_process'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:54:in `process'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:39:in `receive_data'
+    /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.4/lib/eventmachine.rb:237:in `run_machine'
+    /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.4/lib/eventmachine.rb:237:in `run'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/backends/base.rb:57:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/server.rb:150:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/controllers/controller.rb:80:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:173:in `send'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:173:in `run_command'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:139:in `run!'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/bin/thin:6
+    /usr/bin/thin:19:in `load'
+    /usr/bin/thin:19
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-04 11:34:45) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.01073 (93 reqs/sec) | Rendering: 0.00878 (81%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_two (for 172.25.10.33 at 2009-03-04 11:34:50) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_two", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_two
+Completed in 0.01640 (60 reqs/sec) | Rendering: 0.01427 (87%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_two]
+
+
+Processing ExamplesController#layout_three (for 172.25.10.33 at 2009-03-04 11:34:53) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_three", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_three
+Completed in 0.01670 (59 reqs/sec) | Rendering: 0.01485 (88%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_three]
+
+
+Processing ExamplesController#layout_four (for 172.25.10.33 at 2009-03-04 11:34:57) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_four", "controller"=>"examples"}
+
+
+ActionController::UnknownAction (No action responded to layout_four):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/filters.rb:579:in `call_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/filters.rb:572:in `perform_action_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/rescue.rb:201:in `perform_action_without_caching'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.1.1/lib/active_record/connection_adapters/abstract/query_cache.rb:33:in `cache'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.1.1/lib/active_record/query_cache.rb:8:in `cache'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/base.rb:529:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/base.rb:529:in `process_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/filters.rb:568:in `process_without_session_management_support'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/session_management.rb:130:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/base.rb:389:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:149:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/rack/adapter/rails.rb:54:in `serve_rails'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/rack/adapter/rails.rb:74:in `call'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:63:in `pre_process'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:54:in `process'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:39:in `receive_data'
+    /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.4/lib/eventmachine.rb:237:in `run_machine'
+    /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.4/lib/eventmachine.rb:237:in `run'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/backends/base.rb:57:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/server.rb:150:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/controllers/controller.rb:80:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:173:in `send'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:173:in `run_command'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:139:in `run!'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/bin/thin:6
+    /usr/bin/thin:19:in `load'
+    /usr/bin/thin:19
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ExamplesController#layout_four (for 172.25.10.33 at 2009-03-04 15:25:24) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_four", "controller"=>"examples"}
+
+
+ActionController::UnknownAction (No action responded to layout_four):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/filters.rb:579:in `call_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/filters.rb:572:in `perform_action_without_benchmark'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/rescue.rb:201:in `perform_action_without_caching'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.1.1/lib/active_record/connection_adapters/abstract/query_cache.rb:33:in `cache'
+    /Library/Ruby/Gems/1.8/gems/activerecord-2.1.1/lib/active_record/query_cache.rb:8:in `cache'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/base.rb:529:in `send'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/base.rb:529:in `process_without_filters'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/filters.rb:568:in `process_without_session_management_support'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/session_management.rb:130:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/base.rb:389:in `process'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:149:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/rack/adapter/rails.rb:54:in `serve_rails'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/rack/adapter/rails.rb:74:in `call'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:63:in `pre_process'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:54:in `process'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/connection.rb:39:in `receive_data'
+    /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.4/lib/eventmachine.rb:237:in `run_machine'
+    /Library/Ruby/Gems/1.8/gems/eventmachine-0.12.4/lib/eventmachine.rb:237:in `run'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/backends/base.rb:57:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/server.rb:150:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/controllers/controller.rb:80:in `start'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:173:in `send'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:173:in `run_command'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/lib/thin/runner.rb:139:in `run!'
+    /Library/Ruby/Gems/1.8/gems/thin-1.0.0/bin/thin:6
+    /usr/bin/thin:19:in `load'
+    /usr/bin/thin:19
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.1/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-04 15:28:42) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.00420 (238 reqs/sec) | Rendering: 0.00146 (34%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-04 15:30:09) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00290 (344 reqs/sec) | Rendering: 0.00085 (29%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_two (for 172.25.10.33 at 2009-03-04 15:30:14) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_two", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_two
+Completed in 0.00324 (308 reqs/sec) | Rendering: 0.00126 (38%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_two]
+
+
+Processing ExamplesController#layout_one (for 172.25.10.33 at 2009-03-04 15:30:16) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_one", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_one
+Completed in 0.00438 (228 reqs/sec) | Rendering: 0.00216 (49%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_one]
+
+
+Processing ExamplesController#layout_two (for 172.25.10.33 at 2009-03-04 15:30:19) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_two", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_two
+Completed in 0.00291 (343 reqs/sec) | Rendering: 0.00087 (30%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_two]
+
+
+Processing ExamplesController#layout_three (for 172.25.10.33 at 2009-03-04 15:30:23) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"layout_three", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/layout_three
+Completed in 0.00332 (301 reqs/sec) | Rendering: 0.00083 (25%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/layout_three]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-04 15:45:34) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.00424 (236 reqs/sec) | Rendering: 0.00103 (24%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-04 15:51:22) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.00415 (241 reqs/sec) | Rendering: 0.00209 (50%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-04 15:53:45) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.00289 (346 reqs/sec) | Rendering: 0.00086 (29%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/]
+
+
+Processing ExamplesController#index (for 172.25.10.33 at 2009-03-04 15:54:35) [GET]
+  Session ID: BAh7BiIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7AA==--805f4d176a6cfa5fc2d998c641310bcbdaaf3547
+  Parameters: {"action"=>"index", "controller"=>"examples"}
+Rendering template within layouts/application
+Rendering examples/index
+Completed in 0.00297 (336 reqs/sec) | Rendering: 0.00096 (32%) | DB: 0.00000 (0%) | 200 OK [http://dev-shiny/examples/]
