@@ -33,6 +33,63 @@ body {
 
 /* 
 ====================================================================================
+		Components
+==================================================================================== 
+*/
+
+.sizer {
+	padding: 0.77em;
+}
+
+.x940 {
+	width: 72.31em;
+	margin: 0 auto;
+}
+
+.x960 {
+	width: 73.85em;
+	margin: 0 auto;
+}
+
+.menu,
+.menu li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+	
+	.menu li {
+		float: left;
+	}
+
+	.menu a {
+		display: block;
+		padding: 0.462em 0.77em;
+		text-decoration: none;
+	}
+
+.menu.left {
+	float: left;
+}
+
+.menu.right {
+	float: right;
+}
+
+.clearFloat {
+	overflow: hidden;
+	_overflow: visible !important;
+	zoom: 1;
+}
+
+.subtext {
+	display: block;
+	font-size: 0.455em;
+	padding: 1em 0;
+}
+
+/* 
+====================================================================================
 		Typography
 ==================================================================================== 
 */
