@@ -109,8 +109,13 @@ body {
 .picture {
 	background-color: #353535;
 	height: 150px;
+	margin-bottom: 0.77em;
 	width: 95%;
 }
+
+	.picture.large {
+		height: 300px;
+	}
 
 .topborder {
 	border-top: 1px solid #858585;
