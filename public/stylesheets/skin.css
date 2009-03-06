@@ -260,3 +260,21 @@ table {
 		float: left;
 		padding: 0.77em;
 	}
+	
+#examples #more_examples ul,
+#examples #more_examples ul li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+	#examples #more_examples ul li a {
+		color: #A7C1DF;
+		display: block;
+		padding: 0.461em 0;
+		text-decoration: none;
+	}
+	
+	#examples #more_examples ul li a:hover {
+		color: #5384BF;
+	}
