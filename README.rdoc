@@ -12,13 +12,3 @@ and starting from there. From what I have seen there is really only a need
 to have 5 distinct column widths when working with web medium. Going beyond
 this tends to lead to columns that are so small that information contained
 within them becomes less attractive in the overall layout.
-
-== The Idea
-
-So what is a grid? A grid basically takes a layout and breaks it into
-fractions, or sections. These sections can either contain content or they
-can contain new sections. This process can, in theory, be repeated
-infinitely. To make our jobs easier we have to put some restrictions on
-the number of "columns" that we want to deal with. As stated above, I have
-chosen to use 5.
-
