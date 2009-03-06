@@ -1,4 +1,4 @@
-= Grdz
+= Gridz
 
 Gridz is a CSS framework that was developed to make grid layouts easier to code. 
 The idea is not new nor is is something that I will take credit for discovering.
