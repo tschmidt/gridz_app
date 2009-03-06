@@ -39,16 +39,19 @@ body {
 
 .sizer {
 	padding: 0.77em;
+	margin: 0 auto;
+}
+
+.x840 {
+	width: 64.652em;
 }
 
 .x940 {
 	width: 72.31em;
-	margin: 0 auto;
 }
 
 .x960 {
 	width: 73.85em;
-	margin: 0 auto;
 }
 
 .menu,
@@ -86,6 +89,32 @@ body {
 	display: block;
 	font-size: 0.455em;
 	padding: 1em 0;
+}
+
+.intro {
+	border: 2px solid #858585;
+	border-left: none;
+	border-right: none;
+	color: #858585;
+	font-size: 1.85em;
+	font-style: italic;
+	line-height: 1.3;
+	padding: 0.454em 0;
+}
+
+	.intro span {
+		color: #4173AF;
+	}
+
+.picture {
+	background-color: #353535;
+	height: 150px;
+	width: 95%;
+}
+
+.topborder {
+	border-top: 1px solid #858585;
+	padding-top: 0.77em;
 }
 
 /* 
